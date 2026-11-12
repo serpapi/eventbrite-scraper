@@ -479,11 +479,11 @@ Use SerpApi APIs without writing code:
 
 ## Use cases
 
-- Build a local events calendar or newsletter for a city, with the dates, venues, prices, and images of its events.
+- Measure the events market of a city: how many events of a category there are each week, what they charge, and how many sell out.
 - Find free events for the weekend with `price=free` and `date=this_weekend`, or online events with `online=true`.
 - Compare the events of a category or type across cities, e.g., tech conferences in Austin, London, and Berlin.
 - Monitor your own and competitors' events on Eventbrite, with their ticket prices, ranking for a search, and sold-out status.
-- Map in-person events with the venue coordinates, e.g., for a travel guide or a city app.
+- Map in-person events with the venue coordinates, e.g., to see where the events of a category cluster in a city.
 - Give AI agents, RAG pipelines, and chatbots an event search tool, e.g., for "what's on in Austin this weekend".
 
 ## Related scrapers
